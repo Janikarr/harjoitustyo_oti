@@ -98,4 +98,4 @@ public class Varausohjelma extends Application {
     }
 }
 
-// moikkuli moiii
+// toinen kommentti
